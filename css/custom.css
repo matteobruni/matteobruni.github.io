@@ -1,0 +1,65 @@
+.cv-portrait-photo {
+	border: 5px solid #fff;
+	-webkit-box-shadow: 0 0 5px 2px #ccc;
+	-moz-box-shadow: 0 0 5px 2px #ccc;
+	box-shadow: 0 0 5px 2px #ccc;
+}
+
+.centered-pills {
+	text-align: center;
+}
+
+.centered-pills .nav-pills {
+	display: inline-block;
+}
+
+.centered-pills .nav-pills .nav-item {
+	display: inline-block;
+}
+
+.centered-pills .nav .nav-item .nav-link {
+	color: #fff;
+}
+
+.centered-pills .nav .nav-item .nav-link:hover, .centered-pills .nav .nav-item .nav-link:active {
+	background: none;
+}
+
+.cv-wrapper {
+	color: #666;
+	background-color: #fff;
+	box-shadow: 0 0 5px 5px #5bc0de;
+	border-radius: 8px;
+	margin: 0;
+	padding: 28px 51px;
+}
+
+footer.cv-footer {
+	padding: 14px 0;
+}
+
+footer.cv-footer p {
+	margin: 0;
+}
+
+.cv-section article.media span, .cv-section article.media.contact .contact-link {
+	display: block;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+	width: 30px;
+	border-radius: 5px;
+	margin-right: 5px;
+}
+
+.cv-section article.media div {
+	line-height: 30px;
+}
+
+.contact {
+	margin: 5px;
+}
+
+.progress {
+	margin-bottom: 10px;
+}

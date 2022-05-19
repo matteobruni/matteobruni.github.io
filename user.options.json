@@ -1,0 +1,33 @@
+{
+  "fields": {
+    "name": {
+      "type": "personalname"
+    }
+  },
+  "definitions": {
+    "localizedHtml": {
+      "fields": {
+        "en": {
+          "type": "tinymce"
+        },
+        "it": {
+          "type": "tinymce"
+        }
+      }
+    },
+    "contact": {
+      "fields": {
+        "url": {
+          "type": "url"
+        }
+      }
+    },
+    "social": {
+      "fields": {
+        "url": {
+          "type": "url"
+        }
+      }
+    }
+  }
+}

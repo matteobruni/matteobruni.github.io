@@ -1,0 +1,602 @@
+{
+  "name": "Matteo Bruni",
+  "jobTitle": {
+    "en": "Lead Full Stack Developer",
+    "it": "Lead Full Stack Developer"
+  },
+  "aboutMe": {
+    "en": "<p><div>I am an <span class=\"text-info\">.NET developer</span> with experience on many technologies provided by the framework, both <span class=\"test-info\">classic framework and .NET Core</span>.</div><div>I like working with web MVC apps, using <span class=\"text-info\">Javascript with jQuery, vueJS, CSS 3 and HTML 5</span>.</div><div>I use very often <span class=\"text-info\">Telerik for ASP.NET MVC</span> framework for my web apps to present data and charts.</div><div>I work almost always with <span class=\"text-info\">Bootstrap framework</span> and its components, both version 3 and 4.</div><div>If possible I use <span class=\"text-info\">SignalR</span> for real time web applications for a great user experience with modern browsers.</div><div>I use <span class=\"text-info\">Xamarin, both native and Forms</span> to create <span class=\"text-info\">Android and iOS</span> apps and <span class=\"text-info\">Swift or Objective-C</span> to create <span class=\"text-info\">iOS, iPadOS, tvOS, macOS or watchOS</span> apps.</div><div>I have attended WWDC14 and learned there the first release of Swift.</div><div>I am very interested in mobile and web applications but Windows and Mac applications are welcome too.</div></p>",
+    "it": "<p><div>Sono uno <span class=\"text-info\">sviluppatore .NET</span> con una lunga esperienza e con la conoscenza di molte tecnologie offerte dal framework, sia <span class=\"test-info\">il framework classico che .NET Core</span>.</div><div>Mi piace lavorare su applicazioni web MVC, spaziando tra <span class=\"text-info\">Javascript con jQuery, vueJS, CSS 3 e HTML 5</span>.</div><div>Uso spesso i controlli <span class=\"text-info\">Telerik for ASP.NET MVC</span> per le mie applicazioni per rappresentare i dati ed eventuali grafici.</div><div>Lavoro quasi sempre con il <span class=\"text-info\">framework Bootstrap</span> e i suoi componenti, sia versione 3 che 4.</div><div>Se possibile uso <span class=\"text-info\">SignalR</span> per applicazioni web in tempo reale per migliorare l'esperienza utente sui browser moderni.</div><div>Uso anche <span class=\"text-info\">Xamarin, sia nativo che Forms</span>, per creare applicazioni <span class=\"text-info\">Android e iOS</span> e <span class=\"text-info\">Swift o Objective-C</span> per creare applicazioni <span class=\"text-info\">native iOS, iPadOS, tvOS, macOS o watchOS</span>.</div><div>Ho partecipato alla WWDC14 e ho seguito lì le presentazioni trattanti la prima release di Swift, che fu presentato proprio in quell'occasione.</div><div>Sono molto interessato allo sviluppo mobile e alle applicazioni web, ma mi capita di sviluppare anche applicazioni Windows e Mac.</div></p>"
+  },
+  "social": [
+    {
+      "url": "https://www.facebook.com/HollowMattITA",
+      "className": "facebook",
+      "title": "Facebook Matteo"
+    },
+    {
+      "url": "https://www.linkedin.com/in/brunimatteo/",
+      "className": "linkedin",
+      "title": "LinkedIn Matteo"
+    },
+    {
+      "url": "https://twitter.com/HollowMatt_ITA",
+      "className": "twitter",
+      "title": "Twitter Matteo"
+    },
+    {
+      "url": "skype:ar3shack?chat",
+      "className": "skype",
+      "title": "Skype Matteo"
+    },
+    {
+      "url": "https://www.instagram.com/hollowmatt_ita/",
+      "className": "instagram",
+      "title": "Instagram Matteo"
+    },
+    {
+      "url": "https://github.com/matteobruni",
+      "className": "github",
+      "title": "GitHub Matteo"
+    },
+    {
+      "url": "https://www.twitch.tv/hollowmatt",
+      "className": "twitch",
+      "title": "Twitch Matteo"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Basis Information Technology Srl",
+      "startYear": 2015,
+      "jobTitle": {
+        "en": "Lead Full Stack Developer",
+        "it": "Lead Full Stack Developer"
+      },
+      "jobDescription": {
+        "en": "Lead Developer, I create and maintain all company projects. I work on mobile apps developed with Xamarin Android and iOS with Swift. I help and teach to our customers to develop on ASP.NET MVC 4-5 with their projects and I develop our web application with that technology.",
+        "it": "Programmatore, Creo e mantengo i software dell'azienda, gestendo in ogni loro fase. Lavoro su applicazioni mobile scritte con la tecnologia Xamarin Android e Swift per quelle iOS. Aiuto e insegno ai nostri clienti che necessitano di affiancamento per le loro applicazioni sviluppate internamente su tecnologie ASP.NET MVC 4-5 e sviluppo le applicazioni web interne sempre con le stesse tecnologie."
+      },
+      "accomplishments": [
+        {
+          "en": "Actually leading Research & Development division.",
+          "it": "Attualmente mi occupo della Ricerca e Sviluppo della società."
+        },
+        {
+          "en": "Creating prototypes of custom apps of any type (Windows, Web and Mobile) from scratch to a first working version.",
+          "it": "Creo prototipi funzionanti di applicazioni di qualsiasi tipo (Windows, Web e Mobile) dagli appunti fino alla prima release funzionante."
+        },
+        {
+          "en": "Analyzing customers problems and finding the best solutions for their needings.",
+          "it": "Analizzo i problemi dei clienti cercando la soluzione migliore per le loro necessità."
+        },
+        {
+          "en": "Developing ASP.NET MVC custom apps for customers and for supporting mobile applications. For REST APIs I use WebApi or a simple MVC Controller with JsonResult.",
+          "it": "Sviluppo applicazioni ASP.NET MVC personalizzate per i clienti e per le applicazioni che ne necessitano. Per le API REST utilizzo la tecnologia WebApi di ASP.NET oppure alcuni controller di MVC utilizzando il JsonResult."
+        },
+        {
+          "en": "Developing all kind of apps interacting with some Hardware like Beacons and Network Devices.",
+          "it": "Sviluppo qualsiasi tipo di applicazioni che interagiscono con dell'Hardware. Attualmente Beacons e vari device di rete."
+        },
+        {
+          "en": "Gained experience with all mobile device sensors and technologies like NFC, iBeacon or GPS and location services, capturing photos and acquiring QR Codes.",
+          "it": "Ho acquisito una buona conoscenza con tutti i vari sensori e tecnologie integrate negli Smartphone come NFC, iBeacon, GPS e servizi ad esso associati, fotocamera e QR Code."
+        },
+        {
+          "en": "Developing and mantaining huge apps for customers, teaching and helping them too.",
+          "it": "Sviluppo e mantengo applicazioni complesse per i clienti, anche insegnando le tecnologie e aiutandoli nella risoluzione dei problemi che si presentano."
+        },
+        {
+          "en": "Worked as consultant for customers for creating custom web and mobile applications. I teached ASP.NET MVC 5 for web applications with some basics of web design with HTML 5, jQuery, CSS 3 and Bootstrap 3. For mobile development I teached Xamarin Android and Swift.",
+          "it": "Lavoro anche come consulente per i clienti che hanno necessità di creare applicazioni personalizzate di qualsiasi tipo. Insegno loro anche ASP.NET MVC 5 per le applicazioni web introducendo anche delle basi di web design come HTML 5, jQuery, CSS 3 e Bootstrap 3. Per lo sviluppo mobile invece insegno Xamarin e Swift, il primo per Android solitamente, l'altro solo per le piattaforme Apple."
+        },
+        {
+          "en": "Working with marketing division for helping them with the apps I'm working on.",
+          "it": "Lavoro dando supporto anche al reparto marketing per aggiornarli sui progressi dei progetti che sviluppo così da aiutarli nelle varie descrizioni."
+        },
+        {
+          "en": "Gained experience with Wordpress for creating company web sites.",
+          "it": "Ho acquisito una conoscenza di base su Wordpress per creare i siti web aziendali."
+        },
+        {
+          "en": "Mainly developing with Visual Studio.",
+          "it": "Sviluppo principalmente con Visual Studio."
+        },
+        {
+          "en": "Mainly working with MS SQL for creating and mantaining all databases used by my projects.",
+          "it": "Utilizzo principalmente MS SQL per la crezione e la manutenzione dei database usati dai miei progetti."
+        },
+        {
+          "en": "Published websites in a production environment from IIS setup to the final release.",
+          "it": "Riesco a pubblicare autonomamente i siti web aziendali negli ambienti di produzione, anche su nuove installazioni dalla configurazione di IIS fino al rilascio finale."
+        },
+        {
+          "en": "Mainly developed with XCode. All configuration for certificates and distributed learned while working with my team.",
+          "it": "Utilizzo principalmente XCode per lo sviluppo sulle piattaforme Apple. Mi occupo inoltre anche della gestione certificati e profili quindi riesco autonomamente a rilasciare un'applicazione."
+        },
+        {
+          "en": "Gained experience in Xamarin Forms for creating multiplatform apps.",
+          "it": "Ho acquisito una buona conoscenza di Xamarin Forms per creare applicazioni multipiattaforma."
+        },
+        {
+          "en": "Gained experience with F# language for personal knowledge.",
+          "it": "Ho acquisito una buona conoscenza del linguaggio F# per cultura personale nel tempo libero."
+        },
+        {
+          "en": "Gained experience with ASP.NET Core for personal knowledge and future implementations",
+          "it": "Ho acquisito una buona conoscena delle tecnologie ASP.NET Core per cultura personale e per implementarlo in progetti futuri"
+        },
+        {
+          "en": "Gained experience with ASP.NET Web Api for REST web services",
+          "it": "Ho acquisito un'ottima conoscenza della tecnologia ASP.NET Web Api per la creazione di web service REST"
+        },
+        {
+          "en": "Gained experience with ASP.NET Identity and OAuth 2 configuration",
+          "it": "Ho acquisito una buona conoscena del framework ASP.NET Identity e la configurazione relativa a OAuth 2"
+        },
+        {
+          "en": "Gained experience with IdentityServer and OpenID configuration",
+          "it": "Ho acquisito una buona conoscena dell'architettura IdentityServer e la configurazione relativa a OpenID"
+        }
+      ]
+    },
+    {
+      "company": "Projest Spa",
+      "startYear": 2012,
+      "endYear": 2015,
+      "jobTitle": {
+        "en": "Web & Mobile Developer",
+        "it": "Programmatore Web & Mobile"
+      },
+      "jobDescription": {
+        "en": "ASP.NET MVC4-5 development with EntityFramework 5.x-6.x and SQL Server 2008-2012-2014. I have maintained some old projects porting them to new technologies and created and maintained new projects. I have also teached some new technologies like ASP.NET MVC 5 to our customers and helped them to use those technologies. I have created some Android Apps with Xamarin Monodroid and some iOS apps with Objective-C and Swift, learned at WWDC14.",
+        "it": "Sviluppo di applicativi ASP.NET MVC4-5 con EntityFramework 5.x-6.x e SQL Server 2008-2012-2014. Ho aggiornato alcuni progetti datati migrandoli verso tecnologie più recenti e creato e manutenuto nuovi progetti. Ho inoltre insegnato alcune nuove tecnologie, tipo ASP.NET MVC 5, ad alcuni nostri clienti e li ho aiutati nel processo di sviluppo. Ho creato alcune applicazioni Android con Xamarin Monodroid e alcune app iOS con Objective-C e Swift, imparato direttamente alla WWDC14 quando fu presentato."
+      },
+      "accomplishments": [
+        {
+          "en": "Worked as consultant for customers for creating custom web and mobile applications. I teached ASP.NET MVC 3 and 4 for web applications with some basics of web design with HTML 5, jQuery, CSS 3 and Bootstrap 2. For mobile development I teached Xamarin Android and Objective C.",
+          "it": "Ho lavorato come consulente per i nostri clienti per supportarli nella creazione di applicazioni web e mobile personalizzate. Ho insegnato ASP.NET MVC 3 e 4 per lo sviluppo delle applicazioni web e alcune basi di web design con HTML 5, jQuery, CSS 3 e Bootstrap 2. Per lo sviluppo mobile ho insegnato Xamarin Android e Objective C."
+        },
+        {
+          "en": "Developed iOS apps from version 5.0.0. Improved knowledge about CoreLocation, MapKit and Push Notification. Learned AutoLayout and ARC.",
+          "it": "Sviluppo di applicazioni iOS dalla versione 5.0.0. Migliorate le conoscenze sui framework CoreLocation, MapKit e sulle Notifiche Push. Appresi AutoLayout e ARC."
+        },
+        {
+          "en": "Developed ASP.NET MVC 3-4 custom apps for customers and for supporting mobile applications. I used some Controllers with JsonResult for interacting with them.",
+          "it": "Ho sviluppato applicazioni personalizzate per i clienti e per supporto alle applicazioni mobile in ASP.NET MVC 3-4. Ho usato alcuni Controllers con JsonResult per l'interazione con le app mobile."
+        },
+        {
+          "en": "Mainly developed with Visual Studio 2010, 2012 and 2013 for development.",
+          "it": "Ho sviluppato principalmente su Visual Studio 2010, 2012 e 2013."
+        },
+        {
+          "en": "Mainly working with MS SQL 2008 R2, 2012, 2012 R2 and 2014 for creating and mantaining all databases used by my projects.",
+          "it": "Ho lavorato principalmente con MS SQL 2008 R2, 2012, 2012 R2 e 2014 per la creazione e la manutenzione dei database dei miei progetti."
+        },
+        {
+          "en": "Published websites in a production environment from IIS setup to the final release.",
+          "it": "Pubblicati siti web in ambiente di produzione, dalla configurazione di IIS al rilascio finale."
+        },
+        {
+          "en": "Mainly developed with XCode 5 and next releases. All configuration for certificates and distributed learned while working with my team.",
+          "it": "Ho sviluppato principalmente con XCode 5 e le release successive. Tutte le configurazioni per i vari profili e certificati le ho imparate lavorando con il team."
+        },
+        {
+          "en": "Gained experience about Xamarin android for creating custom apps for customers",
+          "it": "Ottenuta esperienza su Xamarin Android per la creazione di applicazioni personalizzate dei clienti"
+        },
+        {
+          "en": "Gained experience with some web frameworks like Bootstrap and Telerik ASP.NET MVC. Some projects used Extjs and Ext.NET",
+          "it": "Ho acquisito conoscenza su alcune librerie web come Bootstrap e Telerik ASP.NET MVC. Alcuni progetti utilizzavano ancheExtjs e Ext.NET"
+        },
+        {
+          "en": "Attended WWDC 2014 and learned the first Swift release there and many other technologies.",
+          "it": "Ho partecipato alla WWDC 2014 e ho potuto imparare Swift dalla prima release e altre tecnologie del mondo iOS."
+        }
+      ]
+    },
+    {
+      "company": "Basis Information Technology Srl",
+      "startYear": 2008,
+      "endYear": 2012,
+      "jobTitle": {
+        "en": "Web & Mobile Developer",
+        "it": "Programmatore Web & Mobile"
+      },
+      "jobDescription": {
+        "en": "iOS applications and ASP.NET 3.5-4 webforms and MVC3 development using EntityFramework 4.x with SQL Server 2005-2008-2008R2",
+        "it": "Sviluppo applicazioni iOS e ASP.NET 3.5-4 webforms e MVC3 utilizzando Linq2SQL e successivamente EntityFramework 4.x con SQL Server 2005-2008-2008R2"
+      },
+      "accomplishments": [
+        {
+          "en": "Developed iPhone OS, now iOS, apps from version 3.0.0, and iPad when released. Integration with Facebook SDK and Three20. Good knowledge of CoreLocation, MapKit and Push Notification.",
+          "it": "Ho sviluppato applicazioni per iPhone OS, adesso iOS, dalla versione 3.0.0, e per iPad quando fu presentato. Ho utilizzato framework di integrazione con Facebook e Three20 per aggiungere controlli moderni alla UI. Buone conoscenze dei framework CoreLocation, MapKit e Notifiche Push."
+        },
+        {
+          "en": "Developed ASP.NET WebForm apps for supporting iPhone apps, front and backend. Started working with ASP.NET MVC in its first release.",
+          "it": "Ho sviluppato applicazioni ASP.NET WebForm per supporto alle applicazioni sviluppate per iPhone, sia frontend che backend. Ho iniziato a lavorare con ASP.NET MVC già nella sua prima release."
+        },
+        {
+          "en": "Gained experience working with WCF for customers and for our apps. The configuration was SOAP and/or REST.",
+          "it": "Ho acquisito conoscenza sui WCF per esporli ai clienti e per le nostre applicazioni. Ho realizzato sia configurazioni SOAP che REST."
+        },
+        {
+          "en": "Developed some ASP.NET Web Handlers, the ashx files, for some Apps because WCF was an unnecessary complexity.",
+          "it": "Ho sviluppato alcuni Web Handler di ASP.NET Web, i file ashx, per alcune applicazioni perché i WCF aggiungevano troppa complessità inutilmente."
+        },
+        {
+          "en": "Mainly developed with Visual Studio 2005, 2008 and 2010 for development, I already have experience on 6, 2002 (.NET), 2003.",
+          "it": "Ho sviluppato principalmente con Visual Studio 2005, 2008 e 2010, avevo già esperienze precedenti con le versioni 6, .NET (2002) e 2003."
+        },
+        {
+          "en": "Mainly working with MS SQL 2005, 2008, 2008 R2 for creating and mantaining all databases used by my projects.",
+          "it": "Ho lavorato principalmente con MS SQL 2005, 2008 e 2008 R2 per la creazione e il mantenimento dei database dei miei progetti."
+        },
+        {
+          "en": "Published websites in a production environment from IIS setup to the final release.",
+          "it": "Pubblicati siti web in ambiente di produzione, dalla configurazione di IIS al rilascio finale."
+        },
+        {
+          "en": "Mainly developed with XCode 3 and next releases. All configuration for certificates and distributed learned while working with my team.",
+          "it": "Ho sviluppato principalmente con XCode 3 e le release successive. Tutte le configurazioni per i vari profili e certificati le ho imparate lavorando con il team."
+        }
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "en": "Photography",
+      "it": "Fotografia"
+    },
+    {
+      "en": "Traveling",
+      "it": "Viaggi"
+    },
+    {
+      "en": "Board Games",
+      "it": "Giochi da tavolo"
+    },
+    {
+      "en": "Video Games",
+      "it": "Videogiochi"
+    },
+    {
+      "en": "Reading",
+      "it": "Leggere"
+    }
+  ],
+  "education": {
+    "schools": [
+      {
+        "name": "ITIS Leonardo Da Vinci",
+        "degree": {
+          "en": "High School Diploma - Computer Expert",
+          "it": "Diploma Perito Informatico"
+        },
+        "year": 2007,
+        "certifications": [
+          {
+            "type": "Diploma",
+            "year": 2007
+          },
+          {
+            "type": "CCNA 1",
+            "year": 2006
+          },
+          {
+            "type": "CCNA 2",
+            "year": 2007
+          }
+        ]
+      }
+    ],
+    "seminars": [
+      "WWDC 2014"
+    ]
+  },
+  "contacts": [
+    {
+      "url": "tel:+393341888530",
+      "description": {
+        "en": "+39 334-1888530",
+        "it": "+39 334-1888530"
+      },
+      "className": "phone",
+      "tooltip": false
+    },
+    {
+      "url": "mailto:matteo.bruni@me.com",
+      "description": {
+        "en": "matteo.bruni@me.com",
+        "it": "matteo.bruni@me.com"
+      },
+      "className": "envelope",
+      "tooltip": false
+    },
+    {
+      "url": "#",
+      "description": {
+        "en": "Via Omero Vallecorsi, 23, 59100, Prato, PO",
+        "it": "Via Omero Vallecorsi, 23, 59100, Prato, PO"
+      },
+      "className": "map-marker",
+      "tooltip": true,
+      "tooltipId": "mapTooltip"
+    },
+    {
+      "url": "#",
+      "description": {
+        "en": "September 19th, 1988",
+        "it": "19 settembre 1988"
+      },
+      "className": "calendar-o",
+      "tooltip": false
+    }
+  ],
+  "skills": [
+    {
+      "group": {
+        "en": "Programming",
+        "it": "Programmazione"
+      },
+      "data": [
+        {
+          "name": {
+            "en": "C#",
+            "it": "C#"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "Swift",
+            "it": "Swift"
+          },
+          "level": 85
+        },
+        {
+          "name": {
+            "en": "Objective C",
+            "it": "Objective C"
+          },
+          "level": 75
+        },
+        {
+          "name": {
+            "en": "F#",
+            "it": "F#"
+          },
+          "level": 75
+        },
+        {
+          "name": {
+            "en": "C++",
+            "it": "C++"
+          },
+          "level": 65
+        },
+        {
+          "name": {
+            "en": "C",
+            "it": "C"
+          },
+          "level": 60
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Web Development",
+        "it": "Sviluppo Web"
+      },
+      "data": [
+        {
+          "name": {
+            "en": "jQuery",
+            "it": "jQuery"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "Javascript",
+            "it": "Javascript"
+          },
+          "level": 95
+        },
+        {
+          "name": {
+            "en": "HTML 5",
+            "it": "HTML 5"
+          },
+          "level": 95
+        },
+        {
+          "name": {
+            "en": "Bootstrap",
+            "it": "Bootstrap"
+          },
+          "level": 90
+        },
+        {
+          "name": {
+            "en": "CSS 3",
+            "it": "CSS 3"
+          },
+          "level": 85
+        },
+        {
+          "name": {
+            "en": "VueJS",
+            "it": "VueJS"
+          },
+          "level": 80
+        },
+        {
+          "name": {
+            "en": "Node.js",
+            "it": "Node.js"
+          },
+          "level": 60
+        },
+        {
+          "name": {
+            "en": "PHP",
+            "it": "PHP"
+          },
+          "level": 60
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Databases",
+        "it": "Database"
+      },
+      "data": [
+        {
+          "name": {
+            "en": "SQL Server",
+            "it": "SQL Server"
+          },
+          "level": 90
+        },
+        {
+          "name": {
+            "en": "MySQL",
+            "it": "MySQL"
+          },
+          "level": 70
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Operating Systems",
+        "it": "Sistemi Operativi"
+      },
+      "data": [
+        {
+          "name": {
+            "en": "Windows",
+            "it": "Windows"
+          },
+          "level": 95
+        },
+        {
+          "name": {
+            "en": "macOS",
+            "it": "macOS"
+          },
+          "level": 95
+        },
+        {
+          "name": {
+            "en": "Debian/Ubuntu",
+            "it": "Debian/Ubuntu"
+          },
+          "level": 75
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Other Skills",
+        "it": "Altro"
+      },
+      "data": [
+        {
+          "name": {
+            "en": ".NET",
+            "it": ".NET"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": ".NET Core",
+            "it": ".NET Core"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "ASP.NET MVC",
+            "it": "ASP.NET MVC"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "ASP.NET WebAPI",
+            "it": "ASP.NET WebAPI"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "EntityFramework",
+            "it": "EntityFramework"
+          },
+          "level": 100
+        },
+        {
+          "name": {
+            "en": "WCF",
+            "it": "WCF"
+          },
+          "level": 90
+        },
+        {
+          "name": {
+            "en": "iOS Apps",
+            "it": "iOS Apps"
+          },
+          "level": 85
+        },
+        {
+          "name": {
+            "en": "watchOS Apps",
+            "it": "watchOS Apps"
+          },
+          "level": 85
+        },
+        {
+          "name": {
+            "en": "Xamarin Android",
+            "it": "Xamarin Android"
+          },
+          "level": 80
+        },
+        {
+          "name": {
+            "en": "Xamarin Forms",
+            "it": "Xamarin Forms"
+          },
+          "level": 75
+        },
+        {
+          "name": {
+            "en": "Xamarin iOS",
+            "it": "Xamarin iOS"
+          },
+          "level": 65
+        },
+        {
+          "name": {
+            "en": "WPF",
+            "it": "WPF"
+          },
+          "level": 65
+        },
+        {
+          "name": {
+            "en": "ASP.NET WebForms",
+            "it": "ASP.NET WebForms"
+          },
+          "level": 60
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "User",
+  "description": "WebCV User definition",
+  "type": "object",
+  "properties": {
+    "name": {
+      "title": "Name",
+      "description": "Full Name",
+      "type": "string"
+    },
+    "jobTitle": {
+      "title": "Job Name",
+      "description": "Job Name",
+      "$ref": "#/definitions/localizedString"
+    },
+    "aboutMe": {
+      "title": "About Me",
+      "description": "About Me HTML Text",
+      "$ref": "#/definitions/localizedHtml"
+    },
+    "social": {
+      "description": "Social Accounts",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/social"
+      },
+      "uniqueItems": true
+    },
+    "experiences": {
+      "description": "Job Experiences",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/experience"
+      },
+      "uniqueItems": true
+    },
+    "hobbies": {
+      "description": "Hobbies",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/localizedString"
+      },
+      "uniqueItems": true
+    },
+    "education": {
+      "$ref": "#/definitions/education"
+    },
+    "contacts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/contact"
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/skill"
+      }
+    }
+  },
+  "required": [
+    "name",
+    "jobTitle",
+    "aboutMe"
+  ],
+  "definitions": {
+    "certification": {
+      "title": "Certification",
+      "description": "WebCV User Certification",
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "type",
+        "year"
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "WebCV User Contact",
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "description": {
+          "$ref": "#/definitions/localizedString"
+        },
+        "className": {
+          "type": "string"
+        },
+        "tooltip": {
+          "type": "boolean"
+        },
+        "tooltipId": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "url",
+        "description",
+        "className",
+        "tooltip"
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "description": "WebCV User Education",
+      "type": "object",
+      "properties": {
+        "schools": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/school"
+          },
+          "uniqueItems": true
+        },
+        "seminars": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "experience": {
+      "title": "Experience",
+      "description": "WebCV Experience definition",
+      "type": "object",
+      "properties": {
+        "company": {
+          "description": "Job Company",
+          "type": "string"
+        },
+        "startYear": {
+          "description": "Job Start Year",
+          "type": "integer"
+        },
+        "endYear": {
+          "description": "Job End Year",
+          "type": "integer"
+        },
+        "jobTitle": {
+          "title": "Job Title",
+          "description": "Job Title",
+          "$ref": "#/definitions/localizedString"
+        },
+        "jobDescription": {
+          "title": "Job Description",
+          "description": "Job Description",
+          "$ref": "#/definitions/localizedString"
+        },
+        "accomplishments": {
+          "description": "Job Accomplishments",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/localizedString"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "company",
+        "startYear",
+        "jobTitle",
+        "jobDescription"
+      ]
+    },
+    "localizedString": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "title": "English",
+          "type": "string"
+        },
+        "it": {
+          "title": "Italiano",
+          "type": "string"
+        }
+      }
+    },
+    "localizedHtml": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "title": "English",
+          "type": "string"
+        },
+        "it": {
+          "title": "Italiano",
+          "type": "string"
+        }
+      }
+    },
+    "school": {
+      "title": "School",
+      "description": "WebCV User School",
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "degree": {
+          "title": "Degree",
+          "$ref": "#/definitions/localizedString"
+        },
+        "year": {
+          "type": "integer"
+        },
+        "certifications": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/certification"
+          }
+        }
+      }
+    },
+    "skill": {
+      "title": "Skill",
+      "description": "WebCV User Skill",
+      "type": "object",
+      "properties": {
+        "group": {
+          "title": "Group",
+          "$ref": "#/definitions/localizedString"
+        },
+        "data": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/skillData"
+          }
+        }
+      }
+    },
+    "skillData": {
+      "title": "Skill Data",
+      "description": "WebCV User Skill Data",
+      "type": "object",
+      "properties": {
+        "name": {
+          "title": "Name",
+          "$ref": "#/definitions/localizedString"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "social": {
+      "title": "Social",
+      "description": "WebCV User Social definition",
+      "type": "object",
+      "properties": {
+        "url": {
+          "description": "Social Account Url",
+          "type": "string"
+        },
+        "className": {
+          "description": "Font Awesome Class Name for Social Icon",
+          "type": "string",
+          "enum": [
+            "500px",
+            "behance",
+            "bitbucket",
+            "deviantart",
+            "digg",
+            "drupal",
+            "etsy",
+            "facebook",
+            "flickr",
+            "foursquare",
+            "github",
+            "google-plus",
+            "imdb",
+            "instagram",
+            "joomla",
+            "lastfm",
+            "linkedin",
+            "pinterest",
+            "reddit",
+            "skype",
+            "snapchat",
+            "soundcloud",
+            "spotify",
+            "stack-exchange",
+            "stack-overflow",
+            "telegram",
+            "tumblr",
+            "twitter",
+            "vimeo",
+            "vine",
+            "vk",
+            "wechat",
+            "whatsapp",
+            "wordpress",
+            "youtube"
+          ]
+        },
+        "title": {
+          "description": "Link title for mouse hover",
+          "type": "string"
+        }
+      },
+      "required": [
+        "url",
+        "className",
+        "title"
+      ]
+    }
+  }
+}
