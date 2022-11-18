@@ -1,8 +1,8 @@
 {
   "name": "Matteo Bruni",
   "jobTitle": {
-    "en": "Lead Full Stack Developer",
-    "it": "Lead Full Stack Developer"
+    "en": "Full Stack Software Engineer",
+    "it": "Full Stack Software Engineer"
   },
   "aboutMe": {
     "en": "<p><div>I am an <span class=\"text-info\">.NET developer</span> with experience on many technologies provided by the framework, both <span class=\"test-info\">classic framework and .NET Core</span>.</div><div>I like working with web MVC apps, using <span class=\"text-info\">Javascript with jQuery, vueJS, CSS 3 and HTML 5</span>.</div><div>I use very often <span class=\"text-info\">Telerik for ASP.NET MVC</span> framework for my web apps to present data and charts.</div><div>I work almost always with <span class=\"text-info\">Bootstrap framework</span> and its components, both version 3 and 4.</div><div>If possible I use <span class=\"text-info\">SignalR</span> for real time web applications for a great user experience with modern browsers.</div><div>I use <span class=\"text-info\">Xamarin, both native and Forms</span> to create <span class=\"text-info\">Android and iOS</span> apps and <span class=\"text-info\">Swift or Objective-C</span> to create <span class=\"text-info\">iOS, iPadOS, tvOS, macOS or watchOS</span> apps.</div><div>I have attended WWDC14 and learned there the first release of Swift.</div><div>I am very interested in mobile and web applications but Windows and Mac applications are welcome too.</div></p>",
@@ -46,6 +46,19 @@
     }
   ],
   "experiences": [
+    {
+      "company": "Ascom",
+      "startYear": 2020,
+      "jobTitle":{
+        "en":"Senior Software Engineer",
+        "it":"Senior Software Engineer"
+      },
+      "jobDescription": {
+        "en": "",
+        "it": ""
+      },
+      "accomplishments":[]
+    },
     {
       "company": "Basis Information Technology Srl",
       "startYear": 2015,
